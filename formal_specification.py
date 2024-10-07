@@ -111,8 +111,8 @@ def register_animal(animal: Animal) -> None:
 def remove_animal(animal_id: int) -> None:
     pass
 
-def remove_habitat(habitat_id: int) -> None:
-    pass
+#def remove_habitat(habitat_id: int) -> None:
+    #pass
 
 def remove_migration_path(path_id: int) -> None:
     pass
@@ -123,8 +123,8 @@ def schedule_migration(migration_path: MigrationPath) -> None:
 def update_animal_details(animal_id: int, **kwargs: Any) -> None:
     pass
 
-def update_habitat_details(habitat_id: int, **kwargs: dict[str, Any]) -> None:
-    pass
+#def update_habitat_details(habitat_id: int, **kwargs: dict[str, Any]) -> None:
+    #pass
 
 def update_migration_details(migration_id: int, **kwargs: Any) -> None:
     pass
