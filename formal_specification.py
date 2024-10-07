@@ -27,11 +27,11 @@ start_location: Habitat
 status: str = "Scheduled"
 
 
-def assign_animals_to_habitat(animals: List[Animal]) -> None:
-    pass
+#def assign_animals_to_habitat(animals: List[Animal]) -> None: #assigned to habitat_management
+    #pass
 
-def assign_animals_to_habitat(habitat_id: int, animals: List[Animal]) -> None:
-    pass
+#def assign_animals_to_habitat(habitat_id: int, animals: List[Animal]) -> None: #assigned to habitat
+    #pass
 
 def cancel_migration(migration_id: int) -> None:
     pass
