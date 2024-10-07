@@ -1,4 +1,5 @@
 from typing import Optional, List
+from habitat_management.habitat import Habitat
 
 class HabitatManager:
 
@@ -21,6 +22,9 @@ class HabitatManager:
         pass
 
     def get_habitats_by_type(environment_type: str) -> List[Habitat]:
+        pass
+
+    def remove_habitat(habitat_id: int) -> None:
         pass
 
 
