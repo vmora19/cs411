@@ -8,3 +8,6 @@ class HabitatManager:
     def create_habitat(habitat_id: int, geographic_area: str, size: int, environment_type: str) -> Habitat:
         pass
 
+    def get_habitat_by_id(habitat_id: int) -> Habitat:
+        pass
+
