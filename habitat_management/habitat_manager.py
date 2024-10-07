@@ -11,3 +11,15 @@ class HabitatManager:
     def get_habitat_by_id(habitat_id: int) -> Habitat:
         pass
 
+    def get_habitat_details(habitat_id: int) -> dict:
+        pass
+
+    def get_habitats_by_geographic_area(geographic_area: str) -> List[Habitat]:
+        pass
+
+    def get_habitats_by_size(size: int) -> List[Habitat]:
+        pass
+
+    def get_habitats_by_type(environment_type: str) -> List[Habitat]:
+        pass
+
