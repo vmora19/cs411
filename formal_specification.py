@@ -36,8 +36,8 @@ status: str = "Scheduled"
 def cancel_migration(migration_id: int) -> None:
     pass
 
-def create_habitat(habitat_id: int, geographic_area: str, size: int, environment_type: str) -> Habitat:
-    pass
+#def create_habitat(habitat_id: int, geographic_area: str, size: int, environment_type: str) -> Habitat: #moved to habitat_manager
+    #pass
 
 def create_migration_path(species: str, start_location: Habitat, destination: Habitat, duration: Optional[int] = None) -> None:
     pass
