@@ -23,7 +23,6 @@ class HabitatManager:
     def get_habitats_by_type(environment_type: str) -> List[Habitat]:
         pass
 
-    def remove_migration_path(path_id: int) -> None:     
-        pass
+
 
     
