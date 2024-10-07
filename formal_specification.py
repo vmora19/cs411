@@ -51,20 +51,20 @@ def get_animal_details(animal_id) -> dict[str, Any]:
 def get_animals_in_habitat(habitat_id: int) -> List[Animal]:
     pass
 
-def get_habitat_by_id(habitat_id: int) -> Habitat:
-    pass
+#def get_habitat_by_id(habitat_id: int) -> Habitat:
+    #pass
 
-def get_habitat_details(habitat_id: int) -> dict:
-    pass
+#def get_habitat_details(habitat_id: int) -> dict:
+    #pass
 
-def get_habitats_by_geographic_area(geographic_area: str) -> List[Habitat]:
-    pass
+#def get_habitats_by_geographic_area(geographic_area: str) -> List[Habitat]:
+    #pass
 
-def get_habitats_by_size(size: int) -> List[Habitat]:
-    pass
+#def get_habitats_by_size(size: int) -> List[Habitat]:
+    #pass
 
-def get_habitats_by_type(environment_type: str) -> List[Habitat]:
-    pass
+#def get_habitats_by_type(environment_type: str) -> List[Habitat]:
+    #pass
 
 def get_migration_by_id(migration_id: int) -> Migration:
     pass
