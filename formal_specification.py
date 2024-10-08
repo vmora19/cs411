@@ -33,8 +33,8 @@ status: str = "Scheduled"
 #def assign_animals_to_habitat(habitat_id: int, animals: List[Animal]) -> None: #assigned to habitat
     #pass
 
-def cancel_migration(migration_id: int) -> None:
-    pass
+#def cancel_migration(migration_id: int) -> None:
+    #pass
 
 #def create_habitat(habitat_id: int, geographic_area: str, size: int, environment_type: str) -> Habitat: #moved to habitat_manager
     #pass
