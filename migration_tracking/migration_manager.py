@@ -24,3 +24,6 @@ class MigrationManager:
     def get_migration_path_details(path_id) -> dict:
         pass
 
+    def schedule_migration(migration_path: MigrationPath) -> None:
+        pass
+
