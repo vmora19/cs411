@@ -90,20 +90,20 @@ def get_animals_in_habitat(habitat_id: int) -> List[Animal]:
 #def get_migrations() -> list[Migration]:
     #pass
 
-def get_migrations_by_current_location(current_location: str) -> list[Migration]:
-    pass
+#def get_migrations_by_current_location(current_location: str) -> list[Migration]:
+    #pass
 
-def get_migrations_by_migration_path(migration_path_id: int) -> list[Migration]:
-    pass
+#def get_migrations_by_migration_path(migration_path_id: int) -> list[Migration]:
+    #pass
 
-def get_migrations_by_start_date(start_date: str) -> list[Migration]:
-    pass
+#def get_migrations_by_start_date(start_date: str) -> list[Migration]:
+    #pass
 
-def get_migrations_by_status(status: str) -> list[Migration]:
-    pass
+#def get_migrations_by_status(status: str) -> list[Migration]:
+    #pass
 
-def get_migration_path_details(path_id) -> dict:
-    pass
+#def get_migration_path_details(path_id) -> dict:
+    #pass
 
 def register_animal(animal: Animal) -> None:
     pass
