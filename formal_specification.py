@@ -120,8 +120,8 @@ def get_animals_in_habitat(habitat_id: int) -> List[Animal]:
 #def schedule_migration(migration_path: MigrationPath) -> None:
     #pass
 
-def update_animal_details(animal_id: int, **kwargs: Any) -> None:
-    pass
+#def update_animal_details(animal_id: int, **kwargs: Any) -> None:
+    #pass
 
 #def update_habitat_details(habitat_id: int, **kwargs: dict[str, Any]) -> None:
     #pass
