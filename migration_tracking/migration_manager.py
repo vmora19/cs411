@@ -1,5 +1,5 @@
 from typing import Optional
-from migration_tracking import Migration
+from migration_tracking.migration import Migration
 
 
 class MigrationManager:
