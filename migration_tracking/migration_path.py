@@ -22,3 +22,6 @@ class MigrationPath:
 
     def get_migration_paths_by_start_location(start_location: Habitat) -> list[MigrationPath]:
         pass
+
+    def remove_migration_path(path_id: int) -> None:
+        pass
