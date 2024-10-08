@@ -45,11 +45,11 @@ def create_migration_path(species: str, start_location: Habitat, destination: Ha
 #def get_animal_by_id(animal_id: int) -> Optional[Animal]:
     #pass
 
-def get_animal_details(animal_id) -> dict[str, Any]:
-    pass
+#def get_animal_details(animal_id) -> dict[str, Any]:
+    #pass
 
-def get_animals_in_habitat(habitat_id: int) -> List[Animal]:
-    pass
+#def get_animals_in_habitat(habitat_id: int) -> List[Animal]:
+    #pass
 
 #def get_habitat_by_id(habitat_id: int) -> Habitat:
     #pass
