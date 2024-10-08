@@ -126,8 +126,8 @@ def update_animal_details(animal_id: int, **kwargs: Any) -> None:
 #def update_habitat_details(habitat_id: int, **kwargs: dict[str, Any]) -> None:
     #pass
 
-def update_migration_details(migration_id: int, **kwargs: Any) -> None:
-    pass
+#def update_migration_details(migration_id: int, **kwargs: Any) -> None:
+    #pass
 
 #def update_migration_path_details(path_id: int, **kwargs) -> None:
     #pass
