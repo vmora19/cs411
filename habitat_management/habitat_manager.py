@@ -33,6 +33,9 @@ class HabitatManager:
     def schedule_migration(migration_path: MigrationPath) -> None:
         pass
 
+    def cancel_migration(migration_id: int) -> None:
+        pass
+
 
 
     
