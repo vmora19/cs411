@@ -27,6 +27,12 @@ class HabitatManager:
     def remove_habitat(habitat_id: int) -> None:
         pass
 
+    def remove_migration_path(path_id: int) -> None:
+        pass
+
+    def schedule_migration(migration_path: MigrationPath) -> None:
+        pass
+
 
 
     
