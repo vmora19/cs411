@@ -1,4 +1,5 @@
 from typing import Optional
+from migration_tracking import Migration
 
 
 class MigrationManager:
