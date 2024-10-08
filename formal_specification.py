@@ -42,8 +42,8 @@ status: str = "Scheduled"
 def create_migration_path(species: str, start_location: Habitat, destination: Habitat, duration: Optional[int] = None) -> None:
     pass
 
-def get_animal_by_id(animal_id: int) -> Optional[Animal]:
-    pass
+#def get_animal_by_id(animal_id: int) -> Optional[Animal]:
+    #pass
 
 def get_animal_details(animal_id) -> dict[str, Any]:
     pass
@@ -105,11 +105,11 @@ def get_animals_in_habitat(habitat_id: int) -> List[Animal]:
 #def get_migration_path_details(path_id) -> dict:
     #pass
 
-def register_animal(animal: Animal) -> None:
-    pass
+#def register_animal(animal: Animal) -> None:
+    #pass
 
-def remove_animal(animal_id: int) -> None:
-    pass
+#def remove_animal(animal_id: int) -> None:
+    #pass
 
 #def remove_habitat(habitat_id: int) -> None:
     #pass
